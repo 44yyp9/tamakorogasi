@@ -530,10 +530,6 @@ PrefabInstance:
       value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 5439461800829574231, guid: 01313594510ba20468ade26b6da50d36, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 5439461800829574231, guid: 01313594510ba20468ade26b6da50d36, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4
       objectReference: {fileID: 0}
@@ -576,10 +572,6 @@ PrefabInstance:
     - target: {fileID: 8352446818619697398, guid: 01313594510ba20468ade26b6da50d36, type: 3}
       propertyPath: m_Name
       value: dangerwall (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8352446818619697398, guid: 01313594510ba20468ade26b6da50d36, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2478,10 +2470,6 @@ PrefabInstance:
       value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 5439461800829574231, guid: 01313594510ba20468ade26b6da50d36, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 5439461800829574231, guid: 01313594510ba20468ade26b6da50d36, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4
       objectReference: {fileID: 0}
@@ -2524,10 +2512,6 @@ PrefabInstance:
     - target: {fileID: 8352446818619697398, guid: 01313594510ba20468ade26b6da50d36, type: 3}
       propertyPath: m_Name
       value: dangerwall
-      objectReference: {fileID: 0}
-    - target: {fileID: 8352446818619697398, guid: 01313594510ba20468ade26b6da50d36, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
